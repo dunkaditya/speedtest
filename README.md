@@ -1,6 +1,6 @@
 ![LibreSpeed Logo](https://github.com/librespeed/speedtest/blob/master/.logo/logo3.png?raw=true)
 
-# LibreSpeed
+# Aditya LibreSpeed
 
 No Flash, No Java, No Websocket, No Bullshit.
 
